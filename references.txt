@@ -1,0 +1,9 @@
+[1] House, W. (2017). Ensuring Long-Term US Leadership in Semiconductors-2017 Report, Influencing China, Improving US Business Climate, Moonshots for Computing, Bioelectronics, Electric Grid, Weather Forecasting.
+
+[2] Kanter, D. (2016). RISC-V Offers Simple, Modular ISA. The Linley Group MICROPROCESSOR Report.
+
+[3] Tippu, S. (2019, January 10). Open-Silicon & SiFive to Chisel RISC-V in India. Retrieved from https://www.eetindia.co.in/news/article/19011011-Open-Silicon-SiFive-Chisel-RISC-V-India.
+
+[4] Lee, Y., Waterman, A., Cook, H., Zimmer, B., Keller, B., Puggelli, A., ... & Chiu, P. F. (2016). An agile approach to building risc-v microprocessors. IEEE Micro, 36(2), 8-20.
+
+[5] "The RISC-V Instruction Set Manual, Volume II: Privileged Architecture, Document Version 20190125-Public-Review-draft", Editors Andrew Waterman and Krste Asanovic, RISC-V Foundation, January 2019.
